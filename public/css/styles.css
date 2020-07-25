@@ -208,7 +208,9 @@ body{
     background-image: url(../images/accessories-blog-2.jpg);
     background-size: cover;
     height: 200px;
-
+}
+.bg-1:hover{
+    transform: scale(1.09);
 }
 .bg-2{
     background-image: url(../images/accessories-blog-4.jpg);
